@@ -1,2 +1,1 @@
-# Demo site
-https://licia03.github.io/css-heart-beat/
+This project shows how to use css animation in order to gain a nice heart beat effect
